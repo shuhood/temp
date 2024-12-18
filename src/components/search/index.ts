@@ -1,0 +1,1 @@
+export { default as SearchPopover } from './SearchPopover';
